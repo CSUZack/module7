@@ -1,0 +1,2 @@
+classNumber = user input
+output values in three dictionaries of user input
